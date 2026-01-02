@@ -59,3 +59,6 @@ To run this project locally, follow these steps:
     * Ensure the `.jar` files in `lib/` are added to your Build Path.
     * Run `src/Main.java`.
       
+## 👥 Authors
+
+This project was created by the collaboration of  **Aliki Bliona** and a team of briliant fellow students as part of a University Project.
